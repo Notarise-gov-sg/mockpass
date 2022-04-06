@@ -12,7 +12,6 @@
     "cz": "git-cz",
     "lint": "eslint lib",
     "lint-fix": "eslint --fix lib",
-    "postinstall": "husky install",
     "prepublishOnly": "pinst --disable",
     "postpublish": "pinst --enable"
   },
@@ -61,7 +60,6 @@
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^3.4.1",
-    "husky": "^6.0.0",
     "lint-staged": "^11.2.6",
     "nodemon": "^2.0.15",
     "pinst": "^2.1.6",
