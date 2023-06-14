@@ -35,7 +35,7 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
-    "@xmldom/xmldom": "^0.8.7",
+    "@xmldom/xmldom": "^0.8.8",
     "base-64": "^1.0.0",
     "cookie-parser": "^1.4.6",
     "dotenv": "^10.0.0",
@@ -48,23 +48,23 @@
     "morgan": "^1.10.0",
     "mustache": "^4.2.0",
     "node-jose": "^2.2.0",
-    "pem": "^1.14.6",
+    "pem": "^1.14.8",
     "uuid": "^8.0.0",
     "xml-crypto": "^2.1.5",
     "xml-encryption": "^2.0.0",
     "xpath": "0.0.32"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.5.1",
-    "@commitlint/config-conventional": "^17.4.4",
-    "@commitlint/travis-cli": "^17.5.1",
+    "@commitlint/cli": "^17.6.5",
+    "@commitlint/config-conventional": "^17.6.5",
+    "@commitlint/travis-cli": "^17.6.5",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^3.4.1",
     "lint-staged": "^11.2.6",
     "nodemon": "^2.0.22",
     "pinst": "^2.1.6",
-    "prettier": "^2.8.7",
+    "prettier": "^2.8.8",
     "serverless-stack-termination-protection": "^2.0.2"
   },
   "overrides": {
